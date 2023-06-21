@@ -1,8 +1,5 @@
 CREATE DATABASE db_generation_game_online;
 
-DROP TABLE tb_classes;
-DROP TABLE tb_personagens;
-
 USE db_generation_game_online;
 
 CREATE TABLE tb_classes(
